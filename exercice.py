@@ -3,6 +3,7 @@
 def majuscule(mot):
     # TODO completer la fonction ici
     return mot
+    #Test.
 
 
 if __name__ == '__main__':
