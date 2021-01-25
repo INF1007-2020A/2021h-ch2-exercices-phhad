@@ -3,7 +3,7 @@
 def majuscule(mot):
     # TODO completer la fonction ici
     return mot
-    #Test.
+    # Test.
 
 
 if __name__ == '__main__':
@@ -15,6 +15,7 @@ if __name__ == '__main__':
         'bonjour',
         'églantier',
         'arbre'
+        'araignée'
     ]
     for i in range(len(mots)):
         mots[i] = majuscule(mots[i])
